@@ -57,8 +57,22 @@
 	Eigene JavaClasse erstellen:
 	
 	
+##Einheit 2: 01.12.2017
+		
+		Um mit seriellen Schnittstellen zu arbeiten:
+		
+		0) Javadoc Schnittstellenprogrammierung durcharbeiten
+		1) Port öffnen
+		2) Verbindungsparameter festlegen
+		3) Verbindung prüfen
+		4) Arbeiten
+		5) Verbindung schließen
 		
 		
 		
+### Kommunikationsparameter aus JavaDoc suchen
+
+index.html -> (setParams) 		
 		
 		
+Serielle Kommunikation -> Mindestens 3 Leitungen -> GND, SENT; RECIVE
